@@ -5,9 +5,9 @@
 - 🏷️ **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfRjwGKQkYf_TGow0_K-7bAGHKBcTRKa6O4v1THyXg-PmtlQA/viewform?usp=pp_url&entry.952939837=T%C3%BCrk%20Dili%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfR_tBZzHDNEntdy4EsPvOetmFfSS-TyuCyUz8SK1Lrojxhvg/viewform?usp=pp_url&entry.574703185=T%C3%BCrk%20Dili%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -28,7 +28,7 @@
 Dersi 2025-2026 ve 2026-2027 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
 
 - **[Öğr. Gör. Dr. Nurgül Yıldız](../../README.md#‍-öğr-gör-dr-nurgül-yıldız)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSc176jMotSqaPIlgQ9K22Cwb89bamxmshoPOndm4ZCUPTEQ9w/viewform?usp=pp_url&entry.1435603907=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Nurg%C3%BCl%20Y%C4%B1ld%C4%B1z) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

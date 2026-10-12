@@ -5,9 +5,9 @@
 - 🏷️ **Ders Tipi:** Seçmeli
 - 🏷️ **Müfredat:** Güncel Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfRjwGKQkYf_TGow0_K-7bAGHKBcTRKa6O4v1THyXg-PmtlQA/viewform?usp=pp_url&entry.952939837=Introduction%20to%20Finance%20for%20Engineers) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfR_tBZzHDNEntdy4EsPvOetmFfSS-TyuCyUz8SK1Lrojxhvg/viewform?usp=pp_url&entry.574703185=Introduction%20to%20Finance%20for%20Engineers) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2022-2023**:
@@ -22,9 +22,9 @@
 Dersi 2021-2022 ve 2022-2023 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
 
 - **[Öğr. Gör. Turgay Özbek](../../README.md#‍-öğr-gör-turgay-özbek)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSc176jMotSqaPIlgQ9K22Cwb89bamxmshoPOndm4ZCUPTEQ9w/viewform?usp=pp_url&entry.1435603907=%C3%96%C4%9Fr.%20G%C3%B6r.%20Turgay%20%C3%96zbek) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Dr. Hayriye Ebru Oydağ](../../README.md#‍-dr-hayriye-ebru-oydağ)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSc176jMotSqaPIlgQ9K22Cwb89bamxmshoPOndm4ZCUPTEQ9w/viewform?usp=pp_url&entry.1435603907=Dr.%20Hayriye%20Ebru%20Oyda%C4%9F) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 
